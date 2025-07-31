@@ -1,4 +1,4 @@
-# relatório_financeiro
+# Dashboard de Relatório Financeiro
 
 💼 Dashboard de Relatório Financeiro no Power BI
 Quero apresentar meu mais novo projeto: Dashboard de Relatório Financeiro de Vendas, desenvolvido com Power BI!
